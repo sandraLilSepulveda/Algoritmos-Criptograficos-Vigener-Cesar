@@ -1,2 +1,2 @@
-# Algoritmos-Criptograficos-Vigener-Cesar
-Algoritmos Criptográficos Vigenere y Cifrado
+# Algoritmos-Criptográficos-Vigenere-Cesar
+Algoritmos Criptográficos Vigenere y Cesar
